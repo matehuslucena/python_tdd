@@ -34,3 +34,21 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 See /usr/include/servers/bootstrap_defs.h for the error codes.
 1493144851344	Marionette	INFO	New connections will no longer be accepted
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1493145923926	geckodriver	INFO	Listening on 127.0.0.1:63154
+1493145924974	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1493145927097	Marionette	INFO	Listening on port 63164
+1493145927188	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-25 15:45:27.760 plugin-container[29386:11287026] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-25 15:45:27.762 plugin-container[29386:11287026] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1493145927864	Marionette	INFO	New connections will no longer be accepted
+1493146158569	geckodriver	INFO	Listening on 127.0.0.1:63382
+1493146159613	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1493146161687	Marionette	INFO	Listening on port 63391
+1493146161761	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-25 15:49:22.364 plugin-container[29463:11349271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-25 15:49:22.367 plugin-container[29463:11349271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1493146165422	Marionette	INFO	New connections will no longer be accepted
